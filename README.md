@@ -1,3 +1,21 @@
+### Fork Pessoal do Open WEB UI v.0.8  || Personal Fork of Open Web UI 
+
+Lista de Alterações: 
+1. Logo para logo Pessoal (em andamento)🔨
+2. Verificação da Tradução da UI (a fazer) 📝
+3. Revisão de primeiras mudanças e deploy no Docker (a fazer) 📝
+4. Otimizações para servidor existente (a fazer) 📝
+5.????
+
+README ORIGINAL
+
+|
+
+|
+
+|
+
+V
 # Open WebUI 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
